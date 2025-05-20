@@ -1,0 +1,203 @@
+.page-itens{
+    height: 1400px;
+    width: 100%;
+    align-content: center;
+    justify-items: center;
+    background-size: 100% 100%;
+    background-image: url("../../../assets/Images/mesawpp.jpg");
+}
+
+.box-bg {
+    background-color: #eeeded33;
+    justify-items: center;
+}
+
+.info-container{
+    height: calc(1400px - 1180px);
+    width: 100%;
+    align-content: end;
+}
+
+.box-infos {
+ width: 100%;
+ height: 130px;
+justify-items: center;
+align-content: center;
+}
+
+.box-infos h1{
+    color: brown;
+    font-family: "Italianno", serif;
+    font-weight: 600;
+    font-size: 80px;
+}
+
+.box-infos h2{
+    margin-top: 15px;
+    color: black;
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+}
+
+.container-itens-box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    padding: 20px 20px;
+    gap: 20px;
+    height: 1150px;
+    width: 2000px;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.item-box{
+    padding: 24px 26px;
+    height: 620px;
+    width: 350px;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+.item-img{
+    height: 160px;
+    width: 155px;
+}
+
+.item-img img{
+    height: 160px;
+    width: 155px;
+    background-color: rgb(77, 75, 75);
+    border-radius: 14px;
+}
+
+.item-img img:hover{
+    margin-left: -68px ;
+    height: 300px;
+    width: 292px;
+    position: absolute;
+}
+
+.box-content {
+    height: 214px;
+    width: 100%;
+    padding-top: 14px;
+    text-align: center;
+}
+
+.name-item{
+    color: brown;
+    justify-items: center;
+    height: 75px;
+    width: 100%;
+}
+
+.description-item{
+    height: 128px;
+    margin: 8px 0px 8px 0px;
+    color: black;
+}
+
+.all-cart{
+    height: 110px;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+.box-cart{
+    height: 100px;
+}
+
+.option-add-cart{
+    display: flex;
+    flex-direction: row;
+    width: 302px;
+    height: 55px;
+    color: black;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.buttons{
+    height: 100%;
+    width: auto;
+    align-content: center;
+}
+
+.buttons svg{
+    font-size: 26px;
+    background-color: rgb(211, 5, 5);
+    color: #fff;
+}
+
+.amount{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.add-cart{
+margin-top: 16px;
+height: 38px;
+width: 100%;
+text-align: center;
+}
+
+.add-cart button{
+    height: 100%;
+    width: 170px;
+    border-radius: 25px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgb(211, 5, 5);
+    border: none;
+    cursor: pointer;
+}
+
+.add-cart button:hover{
+    font-weight: bold;
+}
+
+.disable-button {
+    margin-top: 16px;
+    height: 38px;
+    width: 100%;
+    text-align: center;
+}
+
+.disable-button button{
+    height: 100%;
+    width: 170px;
+    border-radius: 25px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgba(211, 5, 5, 0.295);
+    border: none;
+    cursor: pointer;
+}
+
+.disable-button button:hover {
+    font-weight: bold;
+    background-color: rgb(211, 5, 5);
+}
+
+.price{
+    padding-top: 18px;
+    height: 42px;
+    width: 100%;
+    color: black;
+    justify-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}

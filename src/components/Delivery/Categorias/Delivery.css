@@ -1,0 +1,63 @@
+ .delivery-content {
+   background-size: 100% 100%;
+   background-image: url("../../../assets/Images/mesawpp.jpg");
+   height: 1101px;
+   justify-items: center;
+   font-family: "Quicksand", serif;
+   font-optical-sizing: auto;
+   font-weight: 300px;
+   font-style: normal;
+ }
+
+ .box-page{
+  padding: 50px 70px;
+  width: 1400px;
+  height: 100%;
+  background-color: #fff;
+  justify-items: center;
+ }
+ .intro h1{
+    padding-top : 40px;
+    text-align: center;
+    color: rgb(206, 15, 15);
+    font-size: 50px;
+}
+
+ .intro h2 {
+   color: rgb(2, 2, 2);
+   margin-top: 40px;
+ }
+
+ .all-category {
+   width: 1800px;
+   height: 700px;
+ }
+ .item-category {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      justify-content: center;
+      margin: 20px;
+ }
+
+ .box {
+   margin: 30px;
+   height: 350px;
+   width: 350px;
+   background: #00000060;
+   border-radius: 25px;
+   justify-items: center;
+   align-content: center;
+  cursor: pointer;
+ }
+
+.box h3 {
+   font-size: 28px;
+   color: #fff;
+}
+
+
+ .box h3:hover {
+font-size: 32px;
+ }
+
+ 
