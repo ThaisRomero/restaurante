@@ -7,13 +7,13 @@ let pageCategory = [
  },
 
   {
-    category: "mar",
+    category: "Do mar",
 	title: "Do Mar",
 	description: "Pratos refinados com frutos do mar frescos, preparados com técnica e criatividade para uma experiência única e sofisticada.",
  },
 
   {
-    category: "vegetariano",
+    category: "Vegetariano",
 	title: "Vegetariano",
 	description: "Receitas criativas e sofisticadas que destacam o frescor e o sabor dos vegetais, oferecendo uma experiência leve, colorida e surpreendente.",
  },

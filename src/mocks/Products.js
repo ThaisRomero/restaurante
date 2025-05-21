@@ -68,6 +68,8 @@ const itens = [
     img: pratoTartar,
     alt: "tartar",
     category: "doMar",
+    price: 86.9,
+    id: 5,
   },
 
   {
@@ -77,6 +79,8 @@ const itens = [
     img: pratoCeviche,
     alt: "ceviche",
     category: "doMar",
+     price: 86.9,
+    id: 6,
   },
 
   {
@@ -86,6 +90,8 @@ const itens = [
     img: pratoSalmão,
     alt: "salmão",
     category: "doMar",
+     price: 86.9,
+    id: 7,
   },
 
   {
@@ -95,6 +101,8 @@ const itens = [
     img: pratoBacalhau,
     alt: "bacalhau",
     category: "doMar",
+     price: 86.9,
+    id: 8,
   },
 
   {
@@ -104,6 +112,8 @@ const itens = [
     img: pratoTarte,
     alt: "tarte",
     category: "vegetariano",
+     price: 86.9,
+    id: 9,
   },
 
   {
@@ -113,6 +123,8 @@ const itens = [
     img: pratoRavioli,
     alt: "ravioli",
     category: "vegetariano",
+     price: 86.9,
+    id: 10,
   },
 
   {
@@ -122,6 +134,8 @@ const itens = [
     img: pratoRisotoLimao,
     alt: "risoto-doce",
     category: "vegetariano",
+     price: 86.9,
+    id: 11,
   },
 
   {
@@ -131,6 +145,8 @@ const itens = [
     img: pratoRisoto,
     alt: "risoto",
     category: "vegetariano",
+     price: 86.9,
+    id: 12,
   },
 
   {
@@ -140,6 +156,8 @@ const itens = [
     img: sobremesaCreme,
     alt: "creme",
     category: "sobremesas",
+     price: 86.9,
+    id: 13,
   },
 
   {
@@ -149,6 +167,8 @@ const itens = [
     img: sobremesaTarte,
     alt: "tarte",
     category: "sobremesas",
+     price: 86.9,
+    id: 14,
   },
 
   {
@@ -158,6 +178,8 @@ const itens = [
     img: sobremesaMousse,
     alt: "mousse",
     category: "sobremesas",
+     price: 86.9,
+    id: 15,
   },
 
   {
@@ -167,6 +189,8 @@ const itens = [
     img: sobremesaPanna,
     alt: "panna",
     category: "sobremesas",
+     price: 86.9,
+    id: 16,
   },
 ];
 export default itens;
